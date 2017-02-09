@@ -1,0 +1,1 @@
+For Windows: switch console to UTF-8 with "chcp 65001" command before running.
